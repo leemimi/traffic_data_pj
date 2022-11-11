@@ -7,4 +7,6 @@
 ### 자료 설명
 
  - Seoul_dagu.csv : 서울에서 대구까지의 총 17개 경로(상행 12개, 하행5개)의 rse_id 가 정리된 csv파일
- - 
+ - multiprocessing.py : 멀티프로세스를 이용해 하루치 대용량 csv 파일 전처리 코드
+ - 가상obu_id별로전처리.ipynb : 가상 Obu_id 별로 지나는 rse_id 정리
+ - 30개이하전처리.ipynb : 가상 obu_id를 기준으로 경로1을 지나는 rse id 30개 이하의 가상 obuid 제거 후 전처리
