@@ -10,3 +10,4 @@
  - multiprocessing.py : 멀티프로세스를 이용해 하루치 대용량 csv 파일 전처리 코드
  - 가상obu_id별로전처리.ipynb : 가상 Obu_id 별로 지나는 rse_id 정리
  - 30개이하전처리.ipynb : 가상 obu_id를 기준으로 경로1을 지나는 rse id 30개 이하의 가상 obuid 제거 후 전처리
+ - 데이터전처리방법1.sql : sql로 원시데이터 전처리 중간단계
